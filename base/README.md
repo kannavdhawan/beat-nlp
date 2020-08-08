@@ -1,3 +1,6 @@
+$$J(\theta) = -\frac{1}{m} \sum_{i=1}^m y^{(i)}\log (h(z(\theta)^{(i)})) + (1-y^{(i)})\log (1-h(z(\theta)^{(i)}))\tag{5} 
+$$
+
 - Basic preprocessing
 - Novel word frequency in positive and negative corpus
 - Extracting features (bias,word_count_pos,word_count_neg)
@@ -9,5 +12,3 @@
   - Training 
   - Testing
   - Error analysis
-$$J(\theta) = -\frac{1}{m} \sum_{i=1}^m y^{(i)}\log (h(z(\theta)^{(i)})) + (1-y^{(i)})\log (1-h(z(\theta)^{(i)}))\tag{5} 
-$$
