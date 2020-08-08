@@ -4,10 +4,10 @@
 - Logistic Regression functions
   - sigmoid
   - Cost J
-  - $$J(\theta) = -\frac{1}{m} \sum_{i=1}^m y^{(i)}\log (h(z(\theta)^{(i)})) + (1-y^{(i)})\log (1-h(z(\theta)^{(i)}))\tag{5} 
-    $$
   - gradient descent
   - weights update
   - Training 
   - Testing
   - Error analysis
+$$J(\theta) = -\frac{1}{m} \sum_{i=1}^m y^{(i)}\log (h(z(\theta)^{(i)})) + (1-y^{(i)})\log (1-h(z(\theta)^{(i)}))\tag{5} 
+$$
