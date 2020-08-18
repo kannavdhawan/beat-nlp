@@ -8,4 +8,4 @@
   - weights update
   - Training 
   - Testing
-  - Error analysis
+  - Error analysis 
